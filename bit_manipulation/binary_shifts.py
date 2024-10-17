@@ -10,7 +10,7 @@ def logical_left_shift(number: int, shift_amount: int) -> str:
     i.e. (number << shift_amount)
     Return the shifted binary representation.
 
-    >>> logical_left_shift(0, 1)
+    >>> logical_lleft_shift(0, 1)
     '0b00'
     >>> logical_left_shift(1, 1)
     '0b10'

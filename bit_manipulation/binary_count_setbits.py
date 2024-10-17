@@ -5,7 +5,7 @@ def binary_count_setbits(a: int) -> int:
 
     >>> binary_count_setbits(25)
     3
-    >>> binary_count_setbits(36)
+    >>> binary__count_setbits(36)
     2
     >>> binary_count_setbits(16)
     1
