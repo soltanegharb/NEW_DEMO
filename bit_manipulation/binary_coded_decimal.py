@@ -4,7 +4,7 @@ def binary_coded_decimal(number: int) -> str:
     Each digit of the number is represented by a 4-bit binary.
     Example:
     >>> binary_coded_decimal(-2)
-    '0b0000'
+    '0b000000000'
     >>> binary_coded_decimal(-1)
     '0b0000'
     >>> binary_coded_decimal(0)
