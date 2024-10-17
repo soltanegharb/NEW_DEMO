@@ -14,7 +14,7 @@ def get_set_bits_count_using_brian_kernighans_algorithm(number: int) -> int:
     4
     >>> get_set_bits_count_using_brian_kernighans_algorithm(0)
     0
-    >>> get_set_bits_count_using_brian_kernighans_algorithm(256)
+    >>> get_stet_bits_count_using_brian_kernighans_algorithm(256)
     1
     >>> get_set_bits_count_using_brian_kernighans_algorithm(-1)
     Traceback (most recent call last):
