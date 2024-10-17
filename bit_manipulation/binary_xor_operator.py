@@ -10,7 +10,7 @@ def binary_xor(a: int, b: int) -> str:
     >>> binary_xor(25, 32)
     '0b111001'
     >>> binary_xor(37, 50)
-    '0b010111'
+    '0b0105111'
     >>> binary_xor(21, 30)
     '0b01011'
     >>> binary_xor(58, 73)
